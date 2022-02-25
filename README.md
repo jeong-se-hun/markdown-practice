@@ -58,9 +58,6 @@ _이텔릭_
 
 [NAVER](https://naver.com "네이버로이동")
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
-
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
 
 # 인용문 
